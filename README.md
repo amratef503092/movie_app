@@ -1,16 +1,27 @@
-# movie_app
+# [Project Name]
 
-A new Flutter project.
+**Brief Project Description:**
+* A few sentences describing the purpose of your Flutter project.
+
+## Prerequisites
+
+* **Flutter:**
+    *  Provide a link to Flutter installation instructions (https://docs.flutter.dev/get-started/install).
+* **IDE/Code Editor:**
+    * Android Studio or IntelliJ IDEA (https://www.jetbrains.com/idea/)
+    * Visual Studio Code (https://code.visualstudio.com/)
+* **Android Emulator or iOS Simulator (Optional):**
+    * Instructions on setting these up if your app requires them.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/](https://github.com/)[amratef503092]/[movie_app].git
 
-A few resources to get you started if this is your first Flutter project:
+cd [movie_app]
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
