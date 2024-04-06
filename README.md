@@ -19,7 +19,7 @@
    ```bash
    git clone https://github.com/amratef503092/movie_app
 
-cd [movie_app]
+cd movie_app
  ```bash
 flutter pub get
 
