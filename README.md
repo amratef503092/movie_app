@@ -22,6 +22,7 @@
 cd [movie_app]
  ```bash
 flutter pub get
+
  ```bash
 flutter run
 
