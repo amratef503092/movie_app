@@ -17,7 +17,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[amratef503092]/[movie_app].git
+   git clone https://github.com/amratef503092/movie_app
 
 cd [movie_app]
 flutter pub get
