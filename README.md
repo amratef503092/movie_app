@@ -27,7 +27,6 @@ cd movie_app
    
     flutter run
  
- Getting Started
 
 # Service locator
   get_it: ^7.6.8
